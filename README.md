@@ -1,4 +1,4 @@
-# Flutter Basic UI
+# Flutter UI Practice
 
 **A basic Flutter UI application demonstrating core UI skills**  
 This project showcases foundational Flutter UI development using both *stateless* and *stateful* widgets. It serves as a structured starting point for building more advanced mobile app interfaces and highlights fundamental concepts in Flutter UI design. :contentReference[oaicite:0]{index=0}
